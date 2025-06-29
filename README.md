@@ -33,7 +33,7 @@ I have fully tested this configuration and confirms it working for MacOS Sonoma 
 - Trackpad (All gestures)
 - Trackpoint
 - Battery Reading
-- iMessage/FaceTime/AirDrop/iCloud (need to generate new SMBIOS for these to work)
+- iMessage/FaceTime/iCloud (need to generate new SMBIOS for these to work)
 
 ### What's Not Working
 - Sleep (Drains power when lid is closed)
